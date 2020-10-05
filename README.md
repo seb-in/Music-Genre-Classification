@@ -15,6 +15,6 @@ First data exploration and visualization is carried out using ```pandas``` and `
 
 Next predictions are made using ```scikit-learn``` package to predict whether it is possible to correctly classify a song's genre based on its features(danceability, energy, acousticness, tempo, etc).
 
-Some common algorithms such as PCA, logistic regression, decision trees wiil then be implemented.
+Some common algorithms such as PCA, logistic regression, decision trees will then be implemented.
 
 This project deals with Supervised Machine Learning, which involves data preprocessing, dimensionality reduction, and machine learning using the scikit-learn package.
