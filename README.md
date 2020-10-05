@@ -1,4 +1,4 @@
-# Mini-Project-1
+# Mini Project 1
 
 ## Classify Song Genres from Audio Data
 
