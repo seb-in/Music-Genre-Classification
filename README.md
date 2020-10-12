@@ -20,8 +20,12 @@ Some common algorithms such as PCA, logistic regression, decision trees will the
 This project deals with Supervised Machine Learning, which involves data preprocessing, dimensionality reduction, and machine learning using the scikit-learn package.
 
 ## Datasets
-* ```echonest-metrics.json```   - dataset that has musical features of each track such as danceability and acousticness on a scale from -1 to 1.
-* ```fma-rock-vs-hiphop.csv```  - song track details such as bit_rate, comments, composer, date_created, date_recorded
+* ```echonest-metrics.json```   - 
+
+dataset that has musical features of each track such as danceability and acousticness on a scale from -1 to 1.
+* ```fma-rock-vs-hiphop.csv```  - 
+
+song track details such as bit_rate, comments, composer, date_created, date_recorded
 
 ## Purpose of the Task
 
